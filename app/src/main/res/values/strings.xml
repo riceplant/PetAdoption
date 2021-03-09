@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">Pet Adoption</string>
+    <string name="welcome_message">Time to share your love</string>
 </resources>
